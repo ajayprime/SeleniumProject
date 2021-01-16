@@ -13,5 +13,7 @@ public class HomePageTest {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
+		driver.manage().deleteAllCookies();
+		
 }
 }
